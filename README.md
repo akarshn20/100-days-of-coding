@@ -1,1 +1,1 @@
-This is my first project, this project is based on learning variables, input function, string manipulation, new lines and print function.
+These are the 100 days of coding projects, creating new peojects every day for 100 days.
