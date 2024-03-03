@@ -1,0 +1,4 @@
+Amazon | akarsh@gmail.com | 123456
+Laptop  | akarsh@gmail.com | Password@1234
+Facebook | akarsh@gmail.com | Qwerty@123
+ | akarsh@gmail.com | 
